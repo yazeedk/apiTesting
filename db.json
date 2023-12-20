@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "washing",
+      "description": "washing machine"
+    },
+    {
+      "id": 2,
+      "title": "refrigerator",
+      "description": "refrigerator machine"
+    },
+    {
+      "title": "screen",
+      "description": "LG 32 inch",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "title": "oven",
+      "description": "Electric oven"
+    },
+    {
+      "title": "laptop",
+      "description": "core i 5 8g with 16gb ram",
+      "id": 6
+    },
+    {
+      "title": "Gas cooker",
+      "description": "Electric Gas cooker",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$7Na9/jRD2bcnu4Wm/SbahOYe7/No7u1yF1XsH1AnPH7TmTeM/vnkm",
+      "id": 1
+    },
+    {
+      "email": "yazeed@gmail.com",
+      "password": "$2a$10$b5mtYgtY2SakrheYv/9FkO5E6Ik.acXFlOALze3CaVtDXm/QrEJ1S",
+      "id": 2
+    }
+  ]
+}
